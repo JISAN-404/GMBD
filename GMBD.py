@@ -16,11 +16,11 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        import GMXBD
+        import GMBD
  
  
  
 elif bit == "32bit":
  
-        import BDXGM
+        import BDGM
  
