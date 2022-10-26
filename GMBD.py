@@ -22,5 +22,5 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        import BDXGM
+        import BDZGM
  
