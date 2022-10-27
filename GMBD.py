@@ -16,11 +16,11 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        import S3X
+        import S3XX
  
  
  
 elif bit == "32bit":
  
-        import S3XX
+        import S3X
  
