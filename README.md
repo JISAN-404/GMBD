@@ -15,5 +15,8 @@ cd GMBD
 
 git pull
 
-python GMBD💥.py
+chmod 777 install
+
+./install
+
 🚫REMOVE EMOJI🚫
